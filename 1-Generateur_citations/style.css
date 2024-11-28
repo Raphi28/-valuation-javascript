@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    padding: 100px;
+    background-color: violet;
+}
+
+p{
+    text-align: center;
+    padding: 50px;
+    
+}
+
+button{
+    display: block;
+    margin: auto;
+}
